@@ -16,5 +16,12 @@ public class Test {
         System.out.println("你好你好");
         System.out.println("你好你好");
         System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
     }
 }

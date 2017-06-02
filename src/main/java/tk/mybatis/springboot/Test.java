@@ -1,15 +1,14 @@
 package tk.mybatis.springboot;
 
 /**
- * @Author: Hanfei
- * @Date: 2017/6/2
- * @Company:http://www.hbsddz.com
- * @Project:mybatis-spring-boot
- * @Class:Test
+ * Created by JARVIS on 2017/6/2.
  */
 public class Test {
-
-    public void test(){
-        System.out.println("你好你好");
+    public static void main(String[] args) {
+        System.out.println("1aaadfasdfas");
+        System.out.println("1aaadfasdfas");
+        System.out.println("1aaadfasdfas");
+        System.out.println("1aaadfasdfas");
+        System.out.println("1aaadfasdfas");
     }
 }

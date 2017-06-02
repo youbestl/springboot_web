@@ -26,6 +26,9 @@ public class Application extends WebMvcConfigurerAdapter {
     String home() {
 
         String string = "ddd";
+        String string1 = "ddd";
+        String string2 = "ddd";
+        String string3 = "ddd";
         return "redirect:countries";
     }
 }

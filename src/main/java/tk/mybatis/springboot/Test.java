@@ -11,5 +11,10 @@ public class Test {
 
     public void test(){
         System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
+        System.out.println("你好你好");
     }
 }
